@@ -1,6 +1,10 @@
-![I3uXV](https://github.com/MrFiftyFifty/MrFiftyFifty/assets/144772893/277c70b6-fdbc-4738-a102-1f952fbfa882)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet) ![](https://badgen.net/github/commits/micromatch/micromatch) ![](https://badgen.net/github/releases/micromatch/micromatch)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<div align="center">
+<img src="https://github.com/MrFiftyFifty/MrFiftyFifty/assets/144772893/de740403-6656-47e2-9c75-e697f48a4a39">
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet) ![](https://badgen.net/github/commits/micromatch/micromatch) ![](https://badgen.net/github/releases/micromatch/micromatch)
+</div> 
+ 
  ### <div align="center">I'm a 1st year student of HEXLET passionate and ambitious developer currently pursuing my college education in IT.</div>  
   
 
@@ -55,6 +59,8 @@
 <div align="center">
 <a href="https://github.com/MrFiftyFifty" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
