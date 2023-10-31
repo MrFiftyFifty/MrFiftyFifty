@@ -17,7 +17,7 @@
 <br/>  
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">My Tecno Stacks</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">🗂My Techno Stacks:</h2> 
 <table><tr><td valign="top" width="33%">
 
 
@@ -54,7 +54,7 @@
 
 <br/>  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Connect With Me</h3>  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">📧Connect With Me:</h2> 
 <div align="center">
 <a href="https://github.com/MrFiftyFifty" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -66,22 +66,22 @@
 <br/>  
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">My GitHub Stats</h3>  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrFiftyFifty&theme=juicyfresh" alt="MrFiftyFifty" /></a> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">📈My GitHub Stats:</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrFiftyFifty&theme=juicyfresh" alt="MrFiftyFifty" /></a> </p>
 
-</div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFiftyFifty&layout=compact&theme=synthwave" alt=MrFiftyFifty />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrFiftyFifty&show_icons=true&locale=en&theme=synthwave" alt="MrFiftyFifty" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrFiftyFifty&theme=synthwave" alt="MrFiftyFifty" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+</div><h3 align="left">⭐️Stars</h3>
 <div align="center">
 <a href="https://github.com/MrFiftyFifty">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrFiftyFifty&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrFiftyFifty&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrFiftyFifty&theme=2077" height="180em" />
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">🎓CodeWars Stats:</h2>
+<div align="center">
+<a href="https://github.com/MrFiftyFifty">
+<img src="https://github.r2v.ch/codewars?user=MrFiftyFifty&top_languages=true&stroke=%23BB432C">
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MrFiftyFifty&theme=synthwave-84"/>
