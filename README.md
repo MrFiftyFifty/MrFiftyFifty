@@ -12,7 +12,8 @@
   
 
 - 🕶️ I'm planing to become a FULLSTACK developer  
-  
+
+</td></tr></table>  
 
 <br/>  
 
