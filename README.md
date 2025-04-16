@@ -11,7 +11,7 @@
 - 🔭 I’m currently learning JavaScript and Python  
   
 
-- 🕶️ I'm planing to become a BACKEND developer  
+- 🕶️ I'm planing to become a FULLSTACK developer  
   
 
 <br/>  
