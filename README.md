@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=MrFiftyFifty&color=blueviolet)
 </div> 
  
- ### <div align="center">I'm a 2st year student of HEXLET passionate and ambitious developer currently pursuing my college education in IT.</div>  
+ ### <div align="center">I'm a 2nd year student of HEXLET passionate and ambitious developer currently pursuing my college education in IT.</div>  
   
 
 - 🔭 I’m currently learning JavaScript and Python  
