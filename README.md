@@ -3,7 +3,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
- ### <div align="center">Node.js developer with over 4 years ofexperience. Proficient in modern languages and frameworks, specializing in developing scalablebackend systems and designing APIs. Experienced in integrations and performance optimization. Quick learner of new technologies and effectiveteam player.</div>
+ ### <div align="center">Developer with over 4 years ofexperience. Proficient in modern languages and frameworks, specializing in developing scalablebackend systems and designing APIs. Experienced in integrations and performance optimization. Quick learner of new technologies and effectiveteam player.</div>
 
 </td></tr></table>  
 
